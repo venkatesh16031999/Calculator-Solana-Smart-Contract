@@ -1,1 +1,1 @@
-# Greetings-Solana-Smart-Contract
+# Calculator-Solana-Smart-Contract
